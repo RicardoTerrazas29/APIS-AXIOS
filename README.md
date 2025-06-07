@@ -9,7 +9,7 @@ Antes de comenzar, asegúrate de tener lo siguiente:
 - **Node.js** instalado en tu máquina.
 - **NPM** o **Yarn** (gestores de dependencias).
 
-## Instalación
+## Instalación en desktop
 
 1. **Clona este repositorio** en tu máquina:
 
@@ -32,4 +32,8 @@ Antes de comenzar, asegúrate de tener lo siguiente:
 ## Imagen de ejemplo
 
 ![image](https://github.com/user-attachments/assets/4912e980-ef04-4156-bd04-2ab5cdd5bd9b)
+
+## Avanzado con instalacion de axios full
+![image](https://github.com/user-attachments/assets/8b851c5f-d204-48ad-a881-49ec11ab1800)
+
 
